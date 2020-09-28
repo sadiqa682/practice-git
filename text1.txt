@@ -2,3 +2,4 @@ hello world
 learning git
 New to git
 This change is made locally
+Change for fast forward merging
